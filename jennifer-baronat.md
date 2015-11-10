@@ -3,3 +3,5 @@
 # Markdown is fun
 
 # My favorite color is Purple!
+
+# I also like blue.
